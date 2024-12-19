@@ -1,0 +1,54 @@
+{
+  "title": "Markdown Feature Demo Test",
+  "time": 45,
+  "tasks": [
+    {
+      "nr": 1,
+      "type": "multiple",
+      "question": "**Formatting Demo Question**\n\nSelect all correct statements about Markdown:\n- Text can be *italic* or **bold**\n- Lists are supported\n- Line breaks work too\n\n![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)",
+      "points": 3,
+      "answers": [
+        "You can use **bold** for emphasis",
+        "Text can be *italicized* like this",
+        "You can\nuse line breaks",
+        "- Lists work\n- Even in answers"
+      ]
+    },
+    {
+      "nr": 2,
+      "type": "single",
+      "question": "Which of these uses **all** formatting features?\n\n![Question mark](https://upload.wikimedia.org/wikipedia/commons/d/d0/Question_mark_basic.svg)",
+      "points": 1,
+      "answers": [
+        "Just plain text",
+        "*Italic* and **bold**",
+        "Text with\nline break",
+        "- A list item\n- With **bold** and *italic*\n![Check](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Check_mark_12x16.svg/12px-Check_mark_12x16.svg.png)"
+      ]
+    },
+    {
+      "nr": 3,
+      "type": "long",
+      "question": "# Long Answer Formatting Test\n\nWrite an essay about formatting. Include examples of:\n\n- **Bold** text usage\n- *Italic* text usage\n- List creation\n- Line breaks\n\n![Writing](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Writing_2.jpg/320px-Writing_2.jpg)\n\nFormat your answer appropriately!",
+      "points": 5
+    },
+    {
+      "nr": 4,
+      "type": "short",
+      "question": "Explain what this image shows:\n\n![DNA Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/320px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png)\n\n**Note:** Include the following in your answer:\n- Structure name\n- *Key* components",
+      "points": 2
+    },
+    {
+      "nr": 5,
+      "type": "multiple",
+      "question": "Mixed Formatting Test:\n\n**Bold Section:**\n- Point 1\n- Point 2\n\n*Italic Section:*\n- Point 3\n- Point 4\n\n![Test](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/320px-NewTux.svg.png)\n\nSelect all that apply:",
+      "points": 4,
+      "answers": [
+        "**Option 1**\n- With a list\n- And more items",
+        "*Option 2*\nWith a line break",
+        "Option 3\n![Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Infobox_info_icon.svg/20px-Infobox_info_icon.svg.png)\nWith an image",
+        "Mixed **bold** and *italic*\n- In a list\n- With an image\n![Check](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Check_mark_12x16.svg/12px-Check_mark_12x16.svg.png)"
+      ]
+    }
+  ]
+}
